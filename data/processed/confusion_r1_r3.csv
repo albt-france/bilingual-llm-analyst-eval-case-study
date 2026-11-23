@@ -1,0 +1,7 @@
+guidelines,r1_verdict,r3_correct,r3_partially_correct,r3_incorrect
+v1,correct,126,8,0
+v1,partially_correct,18,3,3
+v1,incorrect,19,15,48
+v2,correct,133,7,0
+v2,partially_correct,5,27,4
+v2,incorrect,0,6,58

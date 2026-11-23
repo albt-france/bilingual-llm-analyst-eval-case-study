@@ -1,0 +1,9 @@
+guidelines,task_type,reviews,median_s,p90_s
+v1,claim_check,150,379.5,580.0999999999999
+v1,logic_puzzle,180,270.0,428.29999999999995
+v1,series_analysis,240,346.0,559.8
+v1,summarise_chunk,150,289.0,457.4
+v2,claim_check,150,330.5,552.3
+v2,logic_puzzle,180,230.5,396.69999999999993
+v2,series_analysis,240,309.5,467.9
+v2,summarise_chunk,150,233.0,427.7999999999999

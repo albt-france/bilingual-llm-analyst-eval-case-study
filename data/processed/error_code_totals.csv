@@ -1,0 +1,14 @@
+error_code,answers,en,fr,share_pct,main_task_type
+CONSTRAINT_IGNORED,25,14,11,25.5,logic_puzzle
+PROVISIONAL_AS_FINAL,13,2,11,13.3,series_analysis
+ARITHMETIC,11,6,5,11.2,series_analysis
+WRONG_WINDOW,10,6,4,10.2,series_analysis
+PCT_VS_POINTS,8,5,3,8.2,series_analysis
+STALE_SOURCE,7,4,3,7.1,claim_check
+HALLUCINATED_DETAIL,5,2,3,5.1,summarise_chunk
+NUTS_LABEL,5,0,5,5.1,series_analysis
+MISSED_BLOCK,4,3,1,4.1,summarise_chunk
+FR_TERM,4,0,4,4.1,logic_puzzle
+FR_DECIMAL,4,0,4,4.1,series_analysis
+UNJUSTIFIED_STEP,1,1,0,1.0,logic_puzzle
+FR_BILLION,1,0,1,1.0,claim_check

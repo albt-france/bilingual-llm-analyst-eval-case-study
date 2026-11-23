@@ -1,0 +1,1441 @@
+answer_id,reviewer,guidelines,verdict,error_code,comment,seconds_spent
+A001,R1,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,489
+A001,R2,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",243
+A001,R3,v1,correct,,Matches the reference; explanation complete.,435
+A002,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",474
+A002,R2,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",575
+A002,R3,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",308
+A003,R1,v1,correct,,Matches the reference; explanation complete.,393
+A003,R2,v1,correct,,Matches the reference; explanation complete.,360
+A003,R3,v1,correct,,Matches the reference; explanation complete.,440
+A004,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",370
+A004,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,492
+A004,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",348
+A005,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,319
+A005,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",458
+A005,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,397
+A006,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",538
+A006,R2,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,510
+A006,R3,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,407
+A007,R1,v1,correct,,Matches the reference; explanation complete.,323
+A007,R2,v1,correct,,Matches the reference; explanation complete.,272
+A007,R3,v1,correct,,Matches the reference; explanation complete.,351
+A008,R1,v1,correct,,Matches the reference; explanation complete.,410
+A008,R2,v1,correct,,Matches the reference; explanation complete.,428
+A008,R3,v1,correct,,Matches the reference; explanation complete.,576
+A009,R1,v1,correct,,Matches the reference; explanation complete.,397
+A009,R2,v1,correct,,Matches the reference; explanation complete.,509
+A009,R3,v1,correct,,Matches the reference; explanation complete.,253
+A010,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",307
+A010,R2,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,670
+A010,R3,v1,correct,,Matches the reference; explanation complete.,384
+A011,R1,v1,correct,,Matches the reference; explanation complete.,181
+A011,R2,v1,correct,,Matches the reference; explanation complete.,379
+A011,R3,v1,correct,,Matches the reference; explanation complete.,539
+A012,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",313
+A012,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,274
+A012,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,236
+A013,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,362
+A013,R2,v1,correct,,Matches the reference; explanation complete.,558
+A013,R3,v1,correct,,Matches the reference; explanation complete.,226
+A014,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,656
+A014,R2,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,508
+A014,R3,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",233
+A015,R1,v1,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",456
+A015,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,317
+A015,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,457
+A016,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",360
+A016,R2,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",338
+A016,R3,v1,correct,,Matches the reference; explanation complete.,348
+A017,R1,v1,correct,,Matches the reference; explanation complete.,483
+A017,R2,v1,correct,,Matches the reference; explanation complete.,129
+A017,R3,v1,correct,,Matches the reference; explanation complete.,732
+A018,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",377
+A018,R2,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,284
+A018,R3,v1,correct,,Matches the reference; explanation complete.,505
+A019,R1,v1,correct,,Matches the reference; explanation complete.,383
+A019,R2,v1,correct,,Matches the reference; explanation complete.,319
+A019,R3,v1,correct,,Matches the reference; explanation complete.,285
+A020,R1,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,192
+A020,R2,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",262
+A020,R3,v1,correct,,Matches the reference; explanation complete.,282
+A021,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",516
+A021,R2,v1,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",447
+A021,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",232
+A022,R1,v1,correct,,Matches the reference; explanation complete.,306
+A022,R2,v1,correct,,Matches the reference; explanation complete.,408
+A022,R3,v1,correct,,Matches the reference; explanation complete.,239
+A023,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",171
+A023,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",327
+A023,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",475
+A024,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,487
+A024,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",559
+A024,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",350
+A025,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,361
+A025,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",710
+A025,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,469
+A026,R1,v1,incorrect,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,191
+A026,R2,v1,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,186
+A026,R3,v1,correct,,Matches the reference; explanation complete.,305
+A027,R1,v1,correct,,Matches the reference; explanation complete.,620
+A027,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,293
+A027,R3,v1,correct,,Matches the reference; explanation complete.,606
+A028,R1,v1,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,511
+A028,R2,v1,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,418
+A028,R3,v1,correct,,Matches the reference; explanation complete.,292
+A029,R1,v1,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",274
+A029,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",371
+A029,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",623
+A030,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",304
+A030,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",549
+A030,R3,v1,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",491
+A031,R1,v1,correct,,Matches the reference; explanation complete.,509
+A031,R2,v1,correct,,Matches the reference; explanation complete.,463
+A031,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,551
+A032,R1,v1,incorrect,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,191
+A032,R2,v1,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,294
+A032,R3,v1,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,582
+A033,R1,v1,correct,,Matches the reference; explanation complete.,503
+A033,R2,v1,correct,,Matches the reference; explanation complete.,307
+A033,R3,v1,correct,,Matches the reference; explanation complete.,378
+A034,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,785
+A034,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",567
+A034,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,650
+A035,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,525
+A035,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,432
+A035,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",757
+A036,R1,v1,correct,,Matches the reference; explanation complete.,676
+A036,R2,v1,correct,,Matches the reference; explanation complete.,674
+A036,R3,v1,correct,,Matches the reference; explanation complete.,451
+A037,R1,v1,correct,,Matches the reference; explanation complete.,345
+A037,R2,v1,correct,,Matches the reference; explanation complete.,190
+A037,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,292
+A038,R1,v1,correct,,Matches the reference; explanation complete.,410
+A038,R2,v1,correct,,Matches the reference; explanation complete.,327
+A038,R3,v1,correct,,Matches the reference; explanation complete.,279
+A039,R1,v1,correct,,Matches the reference; explanation complete.,285
+A039,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,194
+A039,R3,v1,correct,,Matches the reference; explanation complete.,344
+A040,R1,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",595
+A040,R2,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,426
+A040,R3,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",474
+A041,R1,v1,correct,,Matches the reference; explanation complete.,471
+A041,R2,v1,correct,,Matches the reference; explanation complete.,286
+A041,R3,v1,correct,,Matches the reference; explanation complete.,268
+A042,R1,v1,correct,,Matches the reference; explanation complete.,280
+A042,R2,v1,correct,,Matches the reference; explanation complete.,328
+A042,R3,v1,correct,,Matches the reference; explanation complete.,241
+A043,R1,v1,correct,,Matches the reference; explanation complete.,261
+A043,R2,v1,correct,,Matches the reference; explanation complete.,330
+A043,R3,v1,correct,,Matches the reference; explanation complete.,253
+A044,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,335
+A044,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",156
+A044,R3,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",288
+A045,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,345
+A045,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",263
+A045,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,268
+A046,R1,v1,correct,,Matches the reference; explanation complete.,571
+A046,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,584
+A046,R3,v1,correct,,Matches the reference; explanation complete.,554
+A047,R1,v1,correct,,Matches the reference; explanation complete.,314
+A047,R2,v1,correct,,Matches the reference; explanation complete.,913
+A047,R3,v1,correct,,Matches the reference; explanation complete.,234
+A048,R1,v1,correct,,Matches the reference; explanation complete.,264
+A048,R2,v1,correct,,Matches the reference; explanation complete.,412
+A048,R3,v1,correct,,Matches the reference; explanation complete.,331
+A049,R1,v1,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",348
+A049,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,213
+A049,R3,v1,correct,,Matches the reference; explanation complete.,294
+A050,R1,v1,correct,,Matches the reference; explanation complete.,329
+A050,R2,v1,correct,,Matches the reference; explanation complete.,263
+A050,R3,v1,correct,,Matches the reference; explanation complete.,342
+A051,R1,v1,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",211
+A051,R2,v1,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",155
+A051,R3,v1,correct,,Matches the reference; explanation complete.,299
+A052,R1,v1,correct,,Matches the reference; explanation complete.,405
+A052,R2,v1,correct,,Matches the reference; explanation complete.,455
+A052,R3,v1,correct,,Matches the reference; explanation complete.,285
+A053,R1,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",332
+A053,R2,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",125
+A053,R3,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",247
+A054,R1,v1,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",377
+A054,R2,v1,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",311
+A054,R3,v1,correct,,Matches the reference; explanation complete.,245
+A055,R1,v1,correct,,Matches the reference; explanation complete.,311
+A055,R2,v1,correct,,Matches the reference; explanation complete.,523
+A055,R3,v1,correct,,Matches the reference; explanation complete.,617
+A056,R1,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",430
+A056,R2,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",483
+A056,R3,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",593
+A057,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,214
+A057,R2,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",155
+A057,R3,v1,correct,,Matches the reference; explanation complete.,221
+A058,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,396
+A058,R2,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",485
+A058,R3,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",421
+A059,R1,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",534
+A059,R2,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",201
+A059,R3,v1,correct,,Matches the reference; explanation complete.,417
+A060,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,573
+A060,R2,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",465
+A060,R3,v1,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",151
+A061,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",164
+A061,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",200
+A061,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,253
+A062,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",346
+A062,R2,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",211
+A062,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,186
+A063,R1,v1,correct,,Matches the reference; explanation complete.,231
+A063,R2,v1,correct,,Matches the reference; explanation complete.,304
+A063,R3,v1,correct,,Matches the reference; explanation complete.,289
+A064,R1,v1,correct,,Matches the reference; explanation complete.,372
+A064,R2,v1,correct,,Matches the reference; explanation complete.,208
+A064,R3,v1,correct,,Matches the reference; explanation complete.,260
+A065,R1,v1,correct,,Matches the reference; explanation complete.,350
+A065,R2,v1,correct,,Matches the reference; explanation complete.,176
+A065,R3,v1,correct,,Matches the reference; explanation complete.,388
+A066,R1,v1,correct,,Matches the reference; explanation complete.,374
+A066,R2,v1,correct,,Matches the reference; explanation complete.,337
+A066,R3,v1,correct,,Matches the reference; explanation complete.,371
+A067,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,407
+A067,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,475
+A067,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,392
+A068,R1,v1,correct,,Matches the reference; explanation complete.,314
+A068,R2,v1,correct,,Matches the reference; explanation complete.,294
+A068,R3,v1,correct,,Matches the reference; explanation complete.,259
+A069,R1,v1,correct,,Matches the reference; explanation complete.,300
+A069,R2,v1,correct,,Matches the reference; explanation complete.,379
+A069,R3,v1,correct,,Matches the reference; explanation complete.,391
+A070,R1,v1,incorrect,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,497
+A070,R2,v1,correct,,Matches the reference; explanation complete.,168
+A070,R3,v1,correct,,Matches the reference; explanation complete.,210
+A071,R1,v1,correct,,Matches the reference; explanation complete.,273
+A071,R2,v1,correct,,Matches the reference; explanation complete.,373
+A071,R3,v1,correct,,Matches the reference; explanation complete.,335
+A072,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",143
+A072,R2,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",304
+A072,R3,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",455
+A073,R1,v1,correct,,Matches the reference; explanation complete.,252
+A073,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,249
+A073,R3,v1,correct,,Matches the reference; explanation complete.,424
+A074,R1,v1,correct,,Matches the reference; explanation complete.,398
+A074,R2,v1,correct,,Matches the reference; explanation complete.,215
+A074,R3,v1,correct,,Matches the reference; explanation complete.,383
+A075,R1,v1,correct,,Matches the reference; explanation complete.,230
+A075,R2,v1,correct,,Matches the reference; explanation complete.,249
+A075,R3,v1,correct,,Matches the reference; explanation complete.,215
+A076,R1,v1,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",279
+A076,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,185
+A076,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,346
+A077,R1,v1,correct,,Matches the reference; explanation complete.,351
+A077,R2,v1,correct,,Matches the reference; explanation complete.,499
+A077,R3,v1,correct,,Matches the reference; explanation complete.,446
+A078,R1,v1,correct,,Matches the reference; explanation complete.,294
+A078,R2,v1,correct,,Matches the reference; explanation complete.,352
+A078,R3,v1,correct,,Matches the reference; explanation complete.,292
+A079,R1,v1,correct,,Matches the reference; explanation complete.,203
+A079,R2,v1,correct,,Matches the reference; explanation complete.,172
+A079,R3,v1,correct,,Matches the reference; explanation complete.,325
+A080,R1,v1,correct,,Matches the reference; explanation complete.,802
+A080,R2,v1,correct,,Matches the reference; explanation complete.,496
+A080,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,285
+A081,R1,v1,correct,,Matches the reference; explanation complete.,245
+A081,R2,v1,correct,,Matches the reference; explanation complete.,208
+A081,R3,v1,correct,,Matches the reference; explanation complete.,140
+A082,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,195
+A082,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,256
+A082,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,234
+A083,R1,v1,correct,,Matches the reference; explanation complete.,285
+A083,R2,v1,correct,,Matches the reference; explanation complete.,371
+A083,R3,v1,correct,,Matches the reference; explanation complete.,298
+A084,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,288
+A084,R2,v1,correct,,Matches the reference; explanation complete.,307
+A084,R3,v1,correct,,Matches the reference; explanation complete.,182
+A085,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,404
+A085,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,221
+A085,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,357
+A086,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,170
+A086,R2,v1,partially_correct,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,185
+A086,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,218
+A087,R1,v1,correct,,Matches the reference; explanation complete.,232
+A087,R2,v1,correct,,Matches the reference; explanation complete.,115
+A087,R3,v1,correct,,Matches the reference; explanation complete.,219
+A088,R1,v1,correct,,Matches the reference; explanation complete.,389
+A088,R2,v1,correct,,Matches the reference; explanation complete.,377
+A088,R3,v1,correct,,Matches the reference; explanation complete.,243
+A089,R1,v1,correct,,Matches the reference; explanation complete.,240
+A089,R2,v1,correct,,Matches the reference; explanation complete.,107
+A089,R3,v1,correct,,Matches the reference; explanation complete.,198
+A090,R1,v1,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",283
+A090,R2,v1,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",344
+A090,R3,v1,correct,,Matches the reference; explanation complete.,336
+A091,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,306
+A091,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,402
+A091,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,158
+A092,R1,v1,correct,,Matches the reference; explanation complete.,220
+A092,R2,v1,correct,,Matches the reference; explanation complete.,170
+A092,R3,v1,correct,,Matches the reference; explanation complete.,567
+A093,R1,v1,correct,,Matches the reference; explanation complete.,208
+A093,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,161
+A093,R3,v1,correct,,Matches the reference; explanation complete.,230
+A094,R1,v1,correct,,Matches the reference; explanation complete.,233
+A094,R2,v1,correct,,Matches the reference; explanation complete.,184
+A094,R3,v1,correct,,Matches the reference; explanation complete.,273
+A095,R1,v1,correct,,Matches the reference; explanation complete.,151
+A095,R2,v1,correct,,Matches the reference; explanation complete.,181
+A095,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,239
+A096,R1,v1,correct,,Matches the reference; explanation complete.,215
+A096,R2,v1,correct,,Matches the reference; explanation complete.,297
+A096,R3,v1,correct,,Matches the reference; explanation complete.,410
+A097,R1,v1,correct,,Matches the reference; explanation complete.,219
+A097,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,472
+A097,R3,v1,correct,,Matches the reference; explanation complete.,156
+A098,R1,v1,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",166
+A098,R2,v1,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",278
+A098,R3,v1,correct,,Matches the reference; explanation complete.,191
+A099,R1,v1,correct,,Matches the reference; explanation complete.,187
+A099,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,533
+A099,R3,v1,correct,,Matches the reference; explanation complete.,327
+A100,R1,v1,correct,,Matches the reference; explanation complete.,225
+A100,R2,v1,correct,,Matches the reference; explanation complete.,95
+A100,R3,v1,correct,,Matches the reference; explanation complete.,127
+A101,R1,v1,correct,,Matches the reference; explanation complete.,158
+A101,R2,v1,correct,,Matches the reference; explanation complete.,236
+A101,R3,v1,correct,,Matches the reference; explanation complete.,277
+A102,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,404
+A102,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,409
+A102,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,227
+A103,R1,v1,correct,,Matches the reference; explanation complete.,247
+A103,R2,v1,correct,,Matches the reference; explanation complete.,182
+A103,R3,v1,correct,,Matches the reference; explanation complete.,293
+A104,R1,v1,correct,,Matches the reference; explanation complete.,413
+A104,R2,v1,correct,,Matches the reference; explanation complete.,169
+A104,R3,v1,correct,,Matches the reference; explanation complete.,199
+A105,R1,v1,correct,,Matches the reference; explanation complete.,246
+A105,R2,v1,correct,,Matches the reference; explanation complete.,127
+A105,R3,v1,correct,,Matches the reference; explanation complete.,139
+A106,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,254
+A106,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,270
+A106,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,618
+A107,R1,v1,correct,,Matches the reference; explanation complete.,340
+A107,R2,v1,correct,,Matches the reference; explanation complete.,317
+A107,R3,v1,correct,,Matches the reference; explanation complete.,236
+A108,R1,v1,correct,,Matches the reference; explanation complete.,251
+A108,R2,v1,correct,,Matches the reference; explanation complete.,422
+A108,R3,v1,correct,,Matches the reference; explanation complete.,575
+A109,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,273
+A109,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,195
+A109,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,222
+A110,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,166
+A110,R2,v1,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",367
+A110,R3,v1,correct,,Matches the reference; explanation complete.,333
+A111,R1,v1,incorrect,UNJUSTIFIED_STEP,"Right answer, but the explanation does not show how the rules lead to it.",255
+A111,R2,v1,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,114
+A111,R3,v1,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,138
+A112,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,240
+A112,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,138
+A112,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,308
+A113,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,370
+A113,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,159
+A113,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,276
+A114,R1,v1,correct,,Matches the reference; explanation complete.,456
+A114,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,274
+A114,R3,v1,correct,,Matches the reference; explanation complete.,364
+A115,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,238
+A115,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,337
+A115,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,230
+A116,R1,v1,correct,,Matches the reference; explanation complete.,124
+A116,R2,v1,correct,,Matches the reference; explanation complete.,326
+A116,R3,v1,correct,,Matches the reference; explanation complete.,277
+A117,R1,v1,correct,,Matches the reference; explanation complete.,283
+A117,R2,v1,correct,,Matches the reference; explanation complete.,620
+A117,R3,v1,correct,,Matches the reference; explanation complete.,182
+A118,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,200
+A118,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,269
+A118,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,231
+A119,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,153
+A119,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,469
+A119,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,201
+A120,R1,v1,correct,,Matches the reference; explanation complete.,220
+A120,R2,v1,correct,,Matches the reference; explanation complete.,331
+A120,R3,v1,correct,,Matches the reference; explanation complete.,325
+A121,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,226
+A121,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,470
+A121,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,387
+A122,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,382
+A122,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,372
+A122,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,123
+A123,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,182
+A123,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,230
+A123,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,266
+A124,R1,v1,correct,,Matches the reference; explanation complete.,278
+A124,R2,v1,correct,,Matches the reference; explanation complete.,175
+A124,R3,v1,correct,,Matches the reference; explanation complete.,415
+A125,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,205
+A125,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,313
+A125,R3,v1,partially_correct,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,428
+A126,R1,v1,correct,,Matches the reference; explanation complete.,422
+A126,R2,v1,correct,,Matches the reference; explanation complete.,402
+A126,R3,v1,correct,,Matches the reference; explanation complete.,733
+A127,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,542
+A127,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,476
+A127,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,311
+A128,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,549
+A128,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,448
+A128,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,436
+A129,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,248
+A129,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,326
+A129,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,217
+A130,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,381
+A130,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,319
+A130,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,571
+A131,R1,v1,correct,,Matches the reference; explanation complete.,273
+A131,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,402
+A131,R3,v1,correct,,Matches the reference; explanation complete.,293
+A132,R1,v1,correct,,Matches the reference; explanation complete.,323
+A132,R2,v1,correct,,Matches the reference; explanation complete.,347
+A132,R3,v1,correct,,Matches the reference; explanation complete.,381
+A133,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,249
+A133,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,341
+A133,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,204
+A134,R1,v1,correct,,Matches the reference; explanation complete.,349
+A134,R2,v1,correct,,Matches the reference; explanation complete.,334
+A134,R3,v1,correct,,Matches the reference; explanation complete.,314
+A135,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,202
+A135,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,393
+A135,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,377
+A136,R1,v1,correct,,Matches the reference; explanation complete.,253
+A136,R2,v1,correct,,Matches the reference; explanation complete.,208
+A136,R3,v1,correct,,Matches the reference; explanation complete.,358
+A137,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,270
+A137,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,228
+A137,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,431
+A138,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,270
+A138,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,312
+A138,R3,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,331
+A139,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,344
+A139,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,167
+A139,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,262
+A140,R1,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,171
+A140,R2,v1,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,310
+A140,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,490
+A141,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,239
+A141,R2,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,562
+A141,R3,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,1018
+A142,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,279
+A142,R2,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,460
+A142,R3,v1,correct,,Matches the reference; explanation complete.,548
+A143,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,464
+A143,R2,v1,correct,,Matches the reference; explanation complete.,380
+A143,R3,v1,correct,,Matches the reference; explanation complete.,579
+A144,R1,v1,correct,,Matches the reference; explanation complete.,391
+A144,R2,v1,correct,,Matches the reference; explanation complete.,443
+A144,R3,v1,correct,,Matches the reference; explanation complete.,404
+A145,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,669
+A145,R2,v1,correct,,Matches the reference; explanation complete.,439
+A145,R3,v1,correct,,Matches the reference; explanation complete.,379
+A146,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,404
+A146,R2,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,651
+A146,R3,v1,correct,,Matches the reference; explanation complete.,508
+A147,R1,v1,correct,,Matches the reference; explanation complete.,406
+A147,R2,v1,correct,,Matches the reference; explanation complete.,216
+A147,R3,v1,correct,,Matches the reference; explanation complete.,364
+A148,R1,v1,correct,,Matches the reference; explanation complete.,166
+A148,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,546
+A148,R3,v1,correct,,Matches the reference; explanation complete.,436
+A149,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,204
+A149,R2,v1,correct,,Matches the reference; explanation complete.,501
+A149,R3,v1,correct,,Matches the reference; explanation complete.,307
+A150,R1,v1,correct,,Matches the reference; explanation complete.,308
+A150,R2,v1,correct,,Matches the reference; explanation complete.,390
+A150,R3,v1,correct,,Matches the reference; explanation complete.,590
+A151,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,625
+A151,R2,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,535
+A151,R3,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,323
+A152,R1,v1,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,540
+A152,R2,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,557
+A152,R3,v1,correct,,Matches the reference; explanation complete.,497
+A153,R1,v1,correct,,Matches the reference; explanation complete.,284
+A153,R2,v1,correct,,Matches the reference; explanation complete.,998
+A153,R3,v1,correct,,Matches the reference; explanation complete.,403
+A154,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,441
+A154,R2,v1,correct,,Matches the reference; explanation complete.,470
+A154,R3,v1,correct,,Matches the reference; explanation complete.,385
+A155,R1,v1,correct,,Matches the reference; explanation complete.,158
+A155,R2,v1,correct,,Matches the reference; explanation complete.,410
+A155,R3,v1,correct,,Matches the reference; explanation complete.,235
+A156,R1,v1,correct,,Matches the reference; explanation complete.,379
+A156,R2,v1,correct,,Matches the reference; explanation complete.,397
+A156,R3,v1,correct,,Matches the reference; explanation complete.,194
+A157,R1,v1,correct,,Matches the reference; explanation complete.,361
+A157,R2,v1,correct,,Matches the reference; explanation complete.,215
+A157,R3,v1,correct,,Matches the reference; explanation complete.,155
+A158,R1,v1,correct,,Matches the reference; explanation complete.,214
+A158,R2,v1,correct,,Matches the reference; explanation complete.,345
+A158,R3,v1,correct,,Matches the reference; explanation complete.,338
+A159,R1,v1,correct,,Matches the reference; explanation complete.,302
+A159,R2,v1,correct,,Matches the reference; explanation complete.,434
+A159,R3,v1,correct,,Matches the reference; explanation complete.,331
+A160,R1,v1,correct,,Matches the reference; explanation complete.,412
+A160,R2,v1,correct,,Matches the reference; explanation complete.,468
+A160,R3,v1,correct,,Matches the reference; explanation complete.,830
+A161,R1,v1,correct,,Matches the reference; explanation complete.,347
+A161,R2,v1,correct,,Matches the reference; explanation complete.,546
+A161,R3,v1,correct,,Matches the reference; explanation complete.,389
+A162,R1,v1,correct,,Matches the reference; explanation complete.,397
+A162,R2,v1,correct,,Matches the reference; explanation complete.,349
+A162,R3,v1,correct,,Matches the reference; explanation complete.,377
+A163,R1,v1,correct,,Matches the reference; explanation complete.,332
+A163,R2,v1,correct,,Matches the reference; explanation complete.,509
+A163,R3,v1,correct,,Matches the reference; explanation complete.,279
+A164,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,213
+A164,R2,v1,correct,,Matches the reference; explanation complete.,298
+A164,R3,v1,correct,,Matches the reference; explanation complete.,288
+A165,R1,v1,correct,,Matches the reference; explanation complete.,298
+A165,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,343
+A165,R3,v1,correct,,Matches the reference; explanation complete.,299
+A166,R1,v1,correct,,Matches the reference; explanation complete.,341
+A166,R2,v1,correct,,Matches the reference; explanation complete.,299
+A166,R3,v1,correct,,Matches the reference; explanation complete.,416
+A167,R1,v1,correct,,Matches the reference; explanation complete.,827
+A167,R2,v1,correct,,Matches the reference; explanation complete.,387
+A167,R3,v1,correct,,Matches the reference; explanation complete.,303
+A168,R1,v1,correct,,Matches the reference; explanation complete.,160
+A168,R2,v1,correct,,Matches the reference; explanation complete.,701
+A168,R3,v1,correct,,Matches the reference; explanation complete.,394
+A169,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,294
+A169,R2,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",346
+A169,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,293
+A170,R1,v1,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",315
+A170,R2,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",400
+A170,R3,v1,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",522
+A171,R1,v1,correct,,Matches the reference; explanation complete.,299
+A171,R2,v1,correct,,Matches the reference; explanation complete.,365
+A171,R3,v1,correct,,Matches the reference; explanation complete.,356
+A172,R1,v1,correct,,Matches the reference; explanation complete.,304
+A172,R2,v1,correct,,Matches the reference; explanation complete.,694
+A172,R3,v1,correct,,Matches the reference; explanation complete.,472
+A173,R1,v1,correct,,Matches the reference; explanation complete.,374
+A173,R2,v1,correct,,Matches the reference; explanation complete.,604
+A173,R3,v1,correct,,Matches the reference; explanation complete.,227
+A174,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,412
+A174,R2,v1,correct,,Matches the reference; explanation complete.,424
+A174,R3,v1,correct,,Matches the reference; explanation complete.,384
+A175,R1,v1,correct,,Matches the reference; explanation complete.,286
+A175,R2,v1,correct,,Matches the reference; explanation complete.,529
+A175,R3,v1,correct,,Matches the reference; explanation complete.,655
+A176,R1,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",369
+A176,R2,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",289
+A176,R3,v1,correct,,Matches the reference; explanation complete.,249
+A177,R1,v1,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",483
+A177,R2,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,307
+A177,R3,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",654
+A178,R1,v1,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,315
+A178,R2,v1,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",841
+A178,R3,v1,correct,,Matches the reference; explanation complete.,521
+A179,R1,v1,correct,,Matches the reference; explanation complete.,255
+A179,R2,v1,correct,,Matches the reference; explanation complete.,550
+A179,R3,v1,correct,,Matches the reference; explanation complete.,206
+A180,R1,v1,correct,,Matches the reference; explanation complete.,514
+A180,R2,v1,correct,,Matches the reference; explanation complete.,359
+A180,R3,v1,correct,,Matches the reference; explanation complete.,324
+A181,R1,v1,correct,,Matches the reference; explanation complete.,321
+A181,R2,v1,correct,,Matches the reference; explanation complete.,342
+A181,R3,v1,correct,,Matches the reference; explanation complete.,308
+A182,R1,v1,correct,,Matches the reference; explanation complete.,420
+A182,R2,v1,correct,,Matches the reference; explanation complete.,312
+A182,R3,v1,correct,,Matches the reference; explanation complete.,184
+A183,R1,v1,correct,,Matches the reference; explanation complete.,360
+A183,R2,v1,correct,,Matches the reference; explanation complete.,504
+A183,R3,v1,correct,,Matches the reference; explanation complete.,180
+A184,R1,v1,incorrect,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,382
+A184,R2,v1,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,499
+A184,R3,v1,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,172
+A185,R1,v1,correct,,Matches the reference; explanation complete.,552
+A185,R2,v1,correct,,Matches the reference; explanation complete.,265
+A185,R3,v1,correct,,Matches the reference; explanation complete.,487
+A186,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,466
+A186,R2,v1,incorrect,FR_BILLION,'billion' in French means 10^12; 10^9 is 'milliard'.,341
+A186,R3,v1,incorrect,FR_BILLION,'billion' in French means 10^12; 10^9 is 'milliard'.,520
+A187,R1,v1,correct,,Matches the reference; explanation complete.,329
+A187,R2,v1,correct,,Matches the reference; explanation complete.,263
+A187,R3,v1,correct,,Matches the reference; explanation complete.,361
+A188,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,228
+A188,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,243
+A188,R3,v1,correct,,Matches the reference; explanation complete.,454
+A189,R1,v1,correct,,Matches the reference; explanation complete.,390
+A189,R2,v1,correct,,Matches the reference; explanation complete.,455
+A189,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,283
+A190,R1,v1,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,578
+A190,R2,v1,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",345
+A190,R3,v1,correct,,Matches the reference; explanation complete.,721
+A191,R1,v1,correct,,Matches the reference; explanation complete.,296
+A191,R2,v1,correct,,Matches the reference; explanation complete.,355
+A191,R3,v1,correct,,Matches the reference; explanation complete.,304
+A192,R1,v1,correct,,Matches the reference; explanation complete.,230
+A192,R2,v1,correct,,Matches the reference; explanation complete.,184
+A192,R3,v1,correct,,Matches the reference; explanation complete.,148
+A193,R1,v1,correct,,Matches the reference; explanation complete.,527
+A193,R2,v1,correct,,Matches the reference; explanation complete.,158
+A193,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,461
+A194,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,194
+A194,R2,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,420
+A194,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,561
+A195,R1,v1,correct,,Matches the reference; explanation complete.,188
+A195,R2,v1,correct,,Matches the reference; explanation complete.,255
+A195,R3,v1,correct,,Matches the reference; explanation complete.,163
+A196,R1,v1,incorrect,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,192
+A196,R2,v1,incorrect,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,346
+A196,R3,v1,correct,,Matches the reference; explanation complete.,348
+A197,R1,v1,correct,,Matches the reference; explanation complete.,283
+A197,R2,v1,correct,,Matches the reference; explanation complete.,238
+A197,R3,v1,correct,,Matches the reference; explanation complete.,213
+A198,R1,v1,correct,,Matches the reference; explanation complete.,340
+A198,R2,v1,correct,,Matches the reference; explanation complete.,425
+A198,R3,v1,correct,,Matches the reference; explanation complete.,226
+A199,R1,v1,correct,,Matches the reference; explanation complete.,251
+A199,R2,v1,correct,,Matches the reference; explanation complete.,191
+A199,R3,v1,correct,,Matches the reference; explanation complete.,143
+A200,R1,v1,correct,,Matches the reference; explanation complete.,275
+A200,R2,v1,correct,,Matches the reference; explanation complete.,228
+A200,R3,v1,correct,,Matches the reference; explanation complete.,379
+A201,R1,v1,correct,,Matches the reference; explanation complete.,153
+A201,R2,v1,correct,,Matches the reference; explanation complete.,207
+A201,R3,v1,correct,,Matches the reference; explanation complete.,175
+A202,R1,v1,correct,,Matches the reference; explanation complete.,277
+A202,R2,v1,correct,,Matches the reference; explanation complete.,221
+A202,R3,v1,correct,,Matches the reference; explanation complete.,179
+A203,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,131
+A203,R2,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,215
+A203,R3,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,564
+A204,R1,v1,correct,,Matches the reference; explanation complete.,305
+A204,R2,v1,correct,,Matches the reference; explanation complete.,223
+A204,R3,v1,correct,,Matches the reference; explanation complete.,196
+A205,R1,v1,correct,,Matches the reference; explanation complete.,184
+A205,R2,v1,correct,,Matches the reference; explanation complete.,228
+A205,R3,v1,correct,,Matches the reference; explanation complete.,224
+A206,R1,v1,correct,,Matches the reference; explanation complete.,258
+A206,R2,v1,correct,,Matches the reference; explanation complete.,332
+A206,R3,v1,correct,,Matches the reference; explanation complete.,271
+A207,R1,v1,correct,,Matches the reference; explanation complete.,370
+A207,R2,v1,correct,,Matches the reference; explanation complete.,252
+A207,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,507
+A208,R1,v1,correct,,Matches the reference; explanation complete.,367
+A208,R2,v1,correct,,Matches the reference; explanation complete.,302
+A208,R3,v1,correct,,Matches the reference; explanation complete.,332
+A209,R1,v1,correct,,Matches the reference; explanation complete.,230
+A209,R2,v1,correct,,Matches the reference; explanation complete.,256
+A209,R3,v1,correct,,Matches the reference; explanation complete.,253
+A210,R1,v1,correct,,Matches the reference; explanation complete.,214
+A210,R2,v1,correct,,Matches the reference; explanation complete.,174
+A210,R3,v1,correct,,Matches the reference; explanation complete.,339
+A211,R1,v1,incorrect,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,289
+A211,R2,v1,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,271
+A211,R3,v1,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,239
+A212,R1,v1,correct,,Matches the reference; explanation complete.,326
+A212,R2,v1,correct,,Matches the reference; explanation complete.,171
+A212,R3,v1,correct,,Matches the reference; explanation complete.,271
+A213,R1,v1,correct,,Matches the reference; explanation complete.,424
+A213,R2,v1,correct,,Matches the reference; explanation complete.,180
+A213,R3,v1,correct,,Matches the reference; explanation complete.,353
+A214,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,684
+A214,R2,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,311
+A214,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,394
+A215,R1,v1,correct,,Matches the reference; explanation complete.,293
+A215,R2,v1,correct,,Matches the reference; explanation complete.,176
+A215,R3,v1,correct,,Matches the reference; explanation complete.,341
+A216,R1,v1,correct,,Matches the reference; explanation complete.,301
+A216,R2,v1,correct,,Matches the reference; explanation complete.,443
+A216,R3,v1,correct,,Matches the reference; explanation complete.,353
+A217,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,291
+A217,R2,v1,correct,,Matches the reference; explanation complete.,238
+A217,R3,v1,correct,,Matches the reference; explanation complete.,198
+A218,R1,v1,correct,,Matches the reference; explanation complete.,387
+A218,R2,v1,correct,,Matches the reference; explanation complete.,548
+A218,R3,v1,correct,,Matches the reference; explanation complete.,173
+A219,R1,v1,correct,,Matches the reference; explanation complete.,353
+A219,R2,v1,correct,,Matches the reference; explanation complete.,290
+A219,R3,v1,correct,,Matches the reference; explanation complete.,366
+A220,R1,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,761
+A220,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,343
+A220,R3,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,227
+A221,R1,v1,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,512
+A221,R2,v1,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,251
+A221,R3,v1,correct,,Matches the reference; explanation complete.,392
+A222,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,472
+A222,R2,v1,correct,,Matches the reference; explanation complete.,348
+A222,R3,v1,correct,,Matches the reference; explanation complete.,196
+A223,R1,v1,correct,,Matches the reference; explanation complete.,286
+A223,R2,v1,correct,,Matches the reference; explanation complete.,277
+A223,R3,v1,correct,,Matches the reference; explanation complete.,132
+A224,R1,v1,correct,,Matches the reference; explanation complete.,452
+A224,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,262
+A224,R3,v1,correct,,Matches the reference; explanation complete.,561
+A225,R1,v1,correct,,Matches the reference; explanation complete.,271
+A225,R2,v1,correct,,Matches the reference; explanation complete.,225
+A225,R3,v1,correct,,Matches the reference; explanation complete.,300
+A226,R1,v1,correct,,Matches the reference; explanation complete.,293
+A226,R2,v1,correct,,Matches the reference; explanation complete.,289
+A226,R3,v1,correct,,Matches the reference; explanation complete.,380
+A227,R1,v1,correct,,Matches the reference; explanation complete.,149
+A227,R2,v1,correct,,Matches the reference; explanation complete.,306
+A227,R3,v1,correct,,Matches the reference; explanation complete.,218
+A228,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,254
+A228,R2,v1,correct,,Matches the reference; explanation complete.,457
+A228,R3,v1,correct,,Matches the reference; explanation complete.,212
+A229,R1,v1,correct,,Matches the reference; explanation complete.,321
+A229,R2,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,385
+A229,R3,v1,correct,,Matches the reference; explanation complete.,332
+A230,R1,v1,correct,,Matches the reference; explanation complete.,286
+A230,R2,v1,correct,,Matches the reference; explanation complete.,302
+A230,R3,v1,correct,,Matches the reference; explanation complete.,340
+A231,R1,v1,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,287
+A231,R2,v1,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,606
+A231,R3,v1,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,407
+A232,R1,v1,correct,,Matches the reference; explanation complete.,635
+A232,R2,v1,correct,,Matches the reference; explanation complete.,314
+A232,R3,v1,correct,,Matches the reference; explanation complete.,248
+A233,R1,v1,correct,,Matches the reference; explanation complete.,377
+A233,R2,v1,correct,,Matches the reference; explanation complete.,435
+A233,R3,v1,correct,,Matches the reference; explanation complete.,249
+A234,R1,v1,correct,,Matches the reference; explanation complete.,321
+A234,R2,v1,correct,,Matches the reference; explanation complete.,220
+A234,R3,v1,correct,,Matches the reference; explanation complete.,389
+A235,R1,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,293
+A235,R2,v1,correct,,Matches the reference; explanation complete.,362
+A235,R3,v1,correct,,Matches the reference; explanation complete.,192
+A236,R1,v1,correct,,Matches the reference; explanation complete.,346
+A236,R2,v1,correct,,Matches the reference; explanation complete.,211
+A236,R3,v1,correct,,Matches the reference; explanation complete.,216
+A237,R1,v1,correct,,Matches the reference; explanation complete.,201
+A237,R2,v1,correct,,Matches the reference; explanation complete.,343
+A237,R3,v1,correct,,Matches the reference; explanation complete.,349
+A238,R1,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,749
+A238,R2,v1,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,226
+A238,R3,v1,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,252
+A239,R1,v1,correct,,Matches the reference; explanation complete.,315
+A239,R2,v1,correct,,Matches the reference; explanation complete.,331
+A239,R3,v1,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,346
+A240,R1,v1,correct,,Matches the reference; explanation complete.,588
+A240,R2,v1,correct,,Matches the reference; explanation complete.,146
+A240,R3,v1,correct,,Matches the reference; explanation complete.,152
+A001,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",303
+A001,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",460
+A001,R3,v2,incorrect,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",362
+A002,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",335
+A002,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",269
+A002,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",369
+A003,R1,v2,correct,,Matches the reference; explanation complete.,521
+A003,R2,v2,correct,,Matches the reference; explanation complete.,304
+A003,R3,v2,correct,,Matches the reference; explanation complete.,442
+A004,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",503
+A004,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",264
+A004,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",345
+A005,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,369
+A005,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,270
+A005,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,376
+A006,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",393
+A006,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",228
+A006,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",248
+A007,R1,v2,correct,,Matches the reference; explanation complete.,346
+A007,R2,v2,correct,,Matches the reference; explanation complete.,321
+A007,R3,v2,correct,,Matches the reference; explanation complete.,269
+A008,R1,v2,correct,,Matches the reference; explanation complete.,497
+A008,R2,v2,correct,,Matches the reference; explanation complete.,287
+A008,R3,v2,correct,,Matches the reference; explanation complete.,275
+A009,R1,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,537
+A009,R2,v2,correct,,Matches the reference; explanation complete.,347
+A009,R3,v2,correct,,Matches the reference; explanation complete.,155
+A010,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",401
+A010,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",433
+A010,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",375
+A011,R1,v2,correct,,Matches the reference; explanation complete.,422
+A011,R2,v2,correct,,Matches the reference; explanation complete.,442
+A011,R3,v2,correct,,Matches the reference; explanation complete.,187
+A012,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",244
+A012,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",373
+A012,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",691
+A013,R1,v2,correct,,Matches the reference; explanation complete.,178
+A013,R2,v2,correct,,Matches the reference; explanation complete.,359
+A013,R3,v2,correct,,Matches the reference; explanation complete.,393
+A014,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",456
+A014,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",205
+A014,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",544
+A015,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",494
+A015,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",299
+A015,R3,v2,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",261
+A016,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",406
+A016,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",359
+A016,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",477
+A017,R1,v2,correct,,Matches the reference; explanation complete.,412
+A017,R2,v2,correct,,Matches the reference; explanation complete.,303
+A017,R3,v2,correct,,Matches the reference; explanation complete.,231
+A018,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",325
+A018,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",532
+A018,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",428
+A019,R1,v2,correct,,Matches the reference; explanation complete.,427
+A019,R2,v2,correct,,Matches the reference; explanation complete.,362
+A019,R3,v2,correct,,Matches the reference; explanation complete.,148
+A020,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",215
+A020,R2,v2,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,341
+A020,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",428
+A021,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",334
+A021,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,336
+A021,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",464
+A022,R1,v2,correct,,Matches the reference; explanation complete.,444
+A022,R2,v2,correct,,Matches the reference; explanation complete.,383
+A022,R3,v2,correct,,Matches the reference; explanation complete.,166
+A023,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",545
+A023,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",252
+A023,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",866
+A024,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,312
+A024,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",243
+A024,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,623
+A025,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",426
+A025,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",346
+A025,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",209
+A026,R1,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,288
+A026,R2,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,529
+A026,R3,v2,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,457
+A027,R1,v2,correct,,Matches the reference; explanation complete.,398
+A027,R2,v2,correct,,Matches the reference; explanation complete.,238
+A027,R3,v2,correct,,Matches the reference; explanation complete.,335
+A028,R1,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,305
+A028,R2,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,280
+A028,R3,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,264
+A029,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",315
+A029,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",260
+A029,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",216
+A030,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",275
+A030,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",158
+A030,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",614
+A031,R1,v2,correct,,Matches the reference; explanation complete.,370
+A031,R2,v2,correct,,Matches the reference; explanation complete.,746
+A031,R3,v2,correct,,Matches the reference; explanation complete.,355
+A032,R1,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,512
+A032,R2,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,328
+A032,R3,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,199
+A033,R1,v2,correct,,Matches the reference; explanation complete.,393
+A033,R2,v2,correct,,Matches the reference; explanation complete.,341
+A033,R3,v2,correct,,Matches the reference; explanation complete.,436
+A034,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,476
+A034,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,304
+A034,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,296
+A035,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",267
+A035,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,506
+A035,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,183
+A036,R1,v2,correct,,Matches the reference; explanation complete.,225
+A036,R2,v2,correct,,Matches the reference; explanation complete.,235
+A036,R3,v2,correct,,Matches the reference; explanation complete.,272
+A037,R1,v2,correct,,Matches the reference; explanation complete.,405
+A037,R2,v2,correct,,Matches the reference; explanation complete.,256
+A037,R3,v2,correct,,Matches the reference; explanation complete.,219
+A038,R1,v2,correct,,Matches the reference; explanation complete.,313
+A038,R2,v2,correct,,Matches the reference; explanation complete.,258
+A038,R3,v2,correct,,Matches the reference; explanation complete.,275
+A039,R1,v2,correct,,Matches the reference; explanation complete.,231
+A039,R2,v2,correct,,Matches the reference; explanation complete.,187
+A039,R3,v2,correct,,Matches the reference; explanation complete.,252
+A040,R1,v2,correct,,Matches the reference; explanation complete.,371
+A040,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",357
+A040,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",467
+A041,R1,v2,correct,,Matches the reference; explanation complete.,374
+A041,R2,v2,correct,,Matches the reference; explanation complete.,244
+A041,R3,v2,correct,,Matches the reference; explanation complete.,210
+A042,R1,v2,correct,,Matches the reference; explanation complete.,309
+A042,R2,v2,correct,,Matches the reference; explanation complete.,363
+A042,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,391
+A043,R1,v2,correct,,Matches the reference; explanation complete.,434
+A043,R2,v2,correct,,Matches the reference; explanation complete.,350
+A043,R3,v2,correct,,Matches the reference; explanation complete.,207
+A044,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",338
+A044,R2,v2,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",256
+A044,R3,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",140
+A045,R1,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",237
+A045,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",324
+A045,R3,v2,partially_correct,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",372
+A046,R1,v2,correct,,Matches the reference; explanation complete.,381
+A046,R2,v2,correct,,Matches the reference; explanation complete.,278
+A046,R3,v2,correct,,Matches the reference; explanation complete.,240
+A047,R1,v2,correct,,Matches the reference; explanation complete.,188
+A047,R2,v2,correct,,Matches the reference; explanation complete.,145
+A047,R3,v2,correct,,Matches the reference; explanation complete.,318
+A048,R1,v2,correct,,Matches the reference; explanation complete.,294
+A048,R2,v2,correct,,Matches the reference; explanation complete.,336
+A048,R3,v2,correct,,Matches the reference; explanation complete.,215
+A049,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",139
+A049,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",246
+A049,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",292
+A050,R1,v2,correct,,Matches the reference; explanation complete.,171
+A050,R2,v2,correct,,Matches the reference; explanation complete.,590
+A050,R3,v2,correct,,Matches the reference; explanation complete.,405
+A051,R1,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,459
+A051,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",274
+A051,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",301
+A052,R1,v2,correct,,Matches the reference; explanation complete.,447
+A052,R2,v2,correct,,Matches the reference; explanation complete.,381
+A052,R3,v2,correct,,Matches the reference; explanation complete.,408
+A053,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",397
+A053,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",358
+A053,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",300
+A054,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",585
+A054,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",267
+A054,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",458
+A055,R1,v2,correct,,Matches the reference; explanation complete.,191
+A055,R2,v2,correct,,Matches the reference; explanation complete.,282
+A055,R3,v2,correct,,Matches the reference; explanation complete.,367
+A056,R1,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",346
+A056,R2,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",261
+A056,R3,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",477
+A057,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",340
+A057,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",133
+A057,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",353
+A058,R1,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",281
+A058,R2,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",384
+A058,R3,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",573
+A059,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",251
+A059,R2,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,250
+A059,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,389
+A060,R1,v2,partially_correct,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",450
+A060,R2,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",346
+A060,R3,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",592
+A061,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,213
+A061,R2,v2,incorrect,WRONG_WINDOW,"Growth measured from a single, atypical month; compare 3-month averages, full years or the same month.",176
+A061,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,400
+A062,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,208
+A062,R2,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,239
+A062,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,200
+A063,R1,v2,correct,,Matches the reference; explanation complete.,155
+A063,R2,v2,correct,,Matches the reference; explanation complete.,266
+A063,R3,v2,correct,,Matches the reference; explanation complete.,232
+A064,R1,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,203
+A064,R2,v2,correct,,Matches the reference; explanation complete.,422
+A064,R3,v2,correct,,Matches the reference; explanation complete.,302
+A065,R1,v2,correct,,Matches the reference; explanation complete.,290
+A065,R2,v2,correct,,Matches the reference; explanation complete.,305
+A065,R3,v2,correct,,Matches the reference; explanation complete.,299
+A066,R1,v2,correct,,Matches the reference; explanation complete.,236
+A066,R2,v2,correct,,Matches the reference; explanation complete.,200
+A066,R3,v2,correct,,Matches the reference; explanation complete.,268
+A067,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,400
+A067,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,178
+A067,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,416
+A068,R1,v2,correct,,Matches the reference; explanation complete.,303
+A068,R2,v2,correct,,Matches the reference; explanation complete.,293
+A068,R3,v2,correct,,Matches the reference; explanation complete.,344
+A069,R1,v2,correct,,Matches the reference; explanation complete.,342
+A069,R2,v2,correct,,Matches the reference; explanation complete.,275
+A069,R3,v2,correct,,Matches the reference; explanation complete.,293
+A070,R1,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,245
+A070,R2,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,248
+A070,R3,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,261
+A071,R1,v2,correct,,Matches the reference; explanation complete.,270
+A071,R2,v2,correct,,Matches the reference; explanation complete.,174
+A071,R3,v2,correct,,Matches the reference; explanation complete.,401
+A072,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",208
+A072,R2,v2,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,240
+A072,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",169
+A073,R1,v2,correct,,Matches the reference; explanation complete.,467
+A073,R2,v2,correct,,Matches the reference; explanation complete.,253
+A073,R3,v2,correct,,Matches the reference; explanation complete.,183
+A074,R1,v2,correct,,Matches the reference; explanation complete.,603
+A074,R2,v2,correct,,Matches the reference; explanation complete.,189
+A074,R3,v2,correct,,Matches the reference; explanation complete.,191
+A075,R1,v2,correct,,Matches the reference; explanation complete.,364
+A075,R2,v2,correct,,Matches the reference; explanation complete.,368
+A075,R3,v2,correct,,Matches the reference; explanation complete.,241
+A076,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,292
+A076,R2,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,265
+A076,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,319
+A077,R1,v2,correct,,Matches the reference; explanation complete.,332
+A077,R2,v2,correct,,Matches the reference; explanation complete.,200
+A077,R3,v2,correct,,Matches the reference; explanation complete.,212
+A078,R1,v2,correct,,Matches the reference; explanation complete.,211
+A078,R2,v2,correct,,Matches the reference; explanation complete.,135
+A078,R3,v2,correct,,Matches the reference; explanation complete.,340
+A079,R1,v2,correct,,Matches the reference; explanation complete.,358
+A079,R2,v2,correct,,Matches the reference; explanation complete.,234
+A079,R3,v2,correct,,Matches the reference; explanation complete.,220
+A080,R1,v2,correct,,Matches the reference; explanation complete.,310
+A080,R2,v2,correct,,Matches the reference; explanation complete.,300
+A080,R3,v2,correct,,Matches the reference; explanation complete.,432
+A081,R1,v2,correct,,Matches the reference; explanation complete.,243
+A081,R2,v2,correct,,Matches the reference; explanation complete.,233
+A081,R3,v2,correct,,Matches the reference; explanation complete.,205
+A082,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,174
+A082,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,155
+A082,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,258
+A083,R1,v2,correct,,Matches the reference; explanation complete.,186
+A083,R2,v2,correct,,Matches the reference; explanation complete.,163
+A083,R3,v2,correct,,Matches the reference; explanation complete.,286
+A084,R1,v2,correct,,Matches the reference; explanation complete.,145
+A084,R2,v2,correct,,Matches the reference; explanation complete.,212
+A084,R3,v2,correct,,Matches the reference; explanation complete.,104
+A085,R1,v2,partially_correct,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,167
+A085,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,176
+A085,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,169
+A086,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,266
+A086,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,226
+A086,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,205
+A087,R1,v2,correct,,Matches the reference; explanation complete.,389
+A087,R2,v2,correct,,Matches the reference; explanation complete.,114
+A087,R3,v2,correct,,Matches the reference; explanation complete.,148
+A088,R1,v2,correct,,Matches the reference; explanation complete.,287
+A088,R2,v2,correct,,Matches the reference; explanation complete.,242
+A088,R3,v2,correct,,Matches the reference; explanation complete.,248
+A089,R1,v2,correct,,Matches the reference; explanation complete.,310
+A089,R2,v2,correct,,Matches the reference; explanation complete.,192
+A089,R3,v2,correct,,Matches the reference; explanation complete.,250
+A090,R1,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",141
+A090,R2,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",269
+A090,R3,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",337
+A091,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,153
+A091,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,213
+A091,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,122
+A092,R1,v2,correct,,Matches the reference; explanation complete.,155
+A092,R2,v2,correct,,Matches the reference; explanation complete.,139
+A092,R3,v2,correct,,Matches the reference; explanation complete.,244
+A093,R1,v2,correct,,Matches the reference; explanation complete.,209
+A093,R2,v2,correct,,Matches the reference; explanation complete.,107
+A093,R3,v2,correct,,Matches the reference; explanation complete.,140
+A094,R1,v2,correct,,Matches the reference; explanation complete.,213
+A094,R2,v2,correct,,Matches the reference; explanation complete.,128
+A094,R3,v2,correct,,Matches the reference; explanation complete.,153
+A095,R1,v2,correct,,Matches the reference; explanation complete.,227
+A095,R2,v2,correct,,Matches the reference; explanation complete.,265
+A095,R3,v2,correct,,Matches the reference; explanation complete.,204
+A096,R1,v2,correct,,Matches the reference; explanation complete.,244
+A096,R2,v2,correct,,Matches the reference; explanation complete.,178
+A096,R3,v2,correct,,Matches the reference; explanation complete.,153
+A097,R1,v2,correct,,Matches the reference; explanation complete.,197
+A097,R2,v2,correct,,Matches the reference; explanation complete.,163
+A097,R3,v2,correct,,Matches the reference; explanation complete.,162
+A098,R1,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",210
+A098,R2,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",168
+A098,R3,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",169
+A099,R1,v2,correct,,Matches the reference; explanation complete.,207
+A099,R2,v2,correct,,Matches the reference; explanation complete.,205
+A099,R3,v2,correct,,Matches the reference; explanation complete.,247
+A100,R1,v2,correct,,Matches the reference; explanation complete.,395
+A100,R2,v2,correct,,Matches the reference; explanation complete.,93
+A100,R3,v2,correct,,Matches the reference; explanation complete.,403
+A101,R1,v2,correct,,Matches the reference; explanation complete.,387
+A101,R2,v2,correct,,Matches the reference; explanation complete.,281
+A101,R3,v2,correct,,Matches the reference; explanation complete.,221
+A102,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,225
+A102,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,315
+A102,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,220
+A103,R1,v2,correct,,Matches the reference; explanation complete.,308
+A103,R2,v2,correct,,Matches the reference; explanation complete.,157
+A103,R3,v2,correct,,Matches the reference; explanation complete.,110
+A104,R1,v2,correct,,Matches the reference; explanation complete.,177
+A104,R2,v2,correct,,Matches the reference; explanation complete.,363
+A104,R3,v2,correct,,Matches the reference; explanation complete.,206
+A105,R1,v2,correct,,Matches the reference; explanation complete.,195
+A105,R2,v2,correct,,Matches the reference; explanation complete.,357
+A105,R3,v2,correct,,Matches the reference; explanation complete.,263
+A106,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,372
+A106,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,118
+A106,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,344
+A107,R1,v2,correct,,Matches the reference; explanation complete.,218
+A107,R2,v2,correct,,Matches the reference; explanation complete.,131
+A107,R3,v2,correct,,Matches the reference; explanation complete.,227
+A108,R1,v2,correct,,Matches the reference; explanation complete.,288
+A108,R2,v2,correct,,Matches the reference; explanation complete.,468
+A108,R3,v2,correct,,Matches the reference; explanation complete.,581
+A109,R1,v2,partially_correct,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,200
+A109,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,213
+A109,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,127
+A110,R1,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",231
+A110,R2,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",490
+A110,R3,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",180
+A111,R1,v2,partially_correct,UNJUSTIFIED_STEP,"Right answer, but the explanation does not show how the rules lead to it.",220
+A111,R2,v2,partially_correct,UNJUSTIFIED_STEP,"Right answer, but the explanation does not show how the rules lead to it.",331
+A111,R3,v2,partially_correct,UNJUSTIFIED_STEP,"Right answer, but the explanation does not show how the rules lead to it.",200
+A112,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,218
+A112,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,380
+A112,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,363
+A113,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,186
+A113,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,296
+A113,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,466
+A114,R1,v2,correct,,Matches the reference; explanation complete.,176
+A114,R2,v2,correct,,Matches the reference; explanation complete.,288
+A114,R3,v2,correct,,Matches the reference; explanation complete.,164
+A115,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,100
+A115,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,235
+A115,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,205
+A116,R1,v2,correct,,Matches the reference; explanation complete.,127
+A116,R2,v2,correct,,Matches the reference; explanation complete.,224
+A116,R3,v2,correct,,Matches the reference; explanation complete.,249
+A117,R1,v2,correct,,Matches the reference; explanation complete.,231
+A117,R2,v2,correct,,Matches the reference; explanation complete.,242
+A117,R3,v2,correct,,Matches the reference; explanation complete.,197
+A118,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,317
+A118,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,172
+A118,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,242
+A119,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,336
+A119,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,149
+A119,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,137
+A120,R1,v2,correct,,Matches the reference; explanation complete.,173
+A120,R2,v2,correct,,Matches the reference; explanation complete.,183
+A120,R3,v2,correct,,Matches the reference; explanation complete.,219
+A121,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,258
+A121,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,333
+A121,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,386
+A122,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,374
+A122,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,285
+A122,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,412
+A123,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,309
+A123,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,370
+A123,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,301
+A124,R1,v2,correct,,Matches the reference; explanation complete.,441
+A124,R2,v2,correct,,Matches the reference; explanation complete.,396
+A124,R3,v2,correct,,Matches the reference; explanation complete.,541
+A125,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,227
+A125,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,200
+A125,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,413
+A126,R1,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,290
+A126,R2,v2,correct,,Matches the reference; explanation complete.,299
+A126,R3,v2,correct,,Matches the reference; explanation complete.,215
+A127,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,503
+A127,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,371
+A127,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,214
+A128,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,305
+A128,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,311
+A128,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,330
+A129,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,361
+A129,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,230
+A129,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,445
+A130,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,570
+A130,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,216
+A130,R3,v2,partially_correct,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,248
+A131,R1,v2,correct,,Matches the reference; explanation complete.,383
+A131,R2,v2,correct,,Matches the reference; explanation complete.,532
+A131,R3,v2,correct,,Matches the reference; explanation complete.,314
+A132,R1,v2,correct,,Matches the reference; explanation complete.,331
+A132,R2,v2,correct,,Matches the reference; explanation complete.,231
+A132,R3,v2,correct,,Matches the reference; explanation complete.,728
+A133,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,224
+A133,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,347
+A133,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,322
+A134,R1,v2,correct,,Matches the reference; explanation complete.,230
+A134,R2,v2,correct,,Matches the reference; explanation complete.,188
+A134,R3,v2,correct,,Matches the reference; explanation complete.,363
+A135,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,375
+A135,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,304
+A135,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,202
+A136,R1,v2,correct,,Matches the reference; explanation complete.,223
+A136,R2,v2,correct,,Matches the reference; explanation complete.,364
+A136,R3,v2,correct,,Matches the reference; explanation complete.,203
+A137,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,177
+A137,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,294
+A137,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,414
+A138,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,409
+A138,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,429
+A138,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,332
+A139,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,319
+A139,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,290
+A139,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,199
+A140,R1,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,180
+A140,R2,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,406
+A140,R3,v2,incorrect,CONSTRAINT_IGNORED,Proposed order breaks one of the stated rules; check every rule before answering.,160
+A141,R1,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,348
+A141,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,531
+A141,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,727
+A142,R1,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,362
+A142,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,555
+A142,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,633
+A143,R1,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,469
+A143,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,319
+A143,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,457
+A144,R1,v2,correct,,Matches the reference; explanation complete.,422
+A144,R2,v2,correct,,Matches the reference; explanation complete.,601
+A144,R3,v2,correct,,Matches the reference; explanation complete.,483
+A145,R1,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,315
+A145,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,292
+A145,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,361
+A146,R1,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,423
+A146,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,626
+A146,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,375
+A147,R1,v2,correct,,Matches the reference; explanation complete.,206
+A147,R2,v2,correct,,Matches the reference; explanation complete.,146
+A147,R3,v2,correct,,Matches the reference; explanation complete.,266
+A148,R1,v2,correct,,Matches the reference; explanation complete.,400
+A148,R2,v2,correct,,Matches the reference; explanation complete.,483
+A148,R3,v2,correct,,Matches the reference; explanation complete.,436
+A149,R1,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,265
+A149,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,337
+A149,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,250
+A150,R1,v2,correct,,Matches the reference; explanation complete.,500
+A150,R2,v2,correct,,Matches the reference; explanation complete.,367
+A150,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,519
+A151,R1,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,431
+A151,R2,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,363
+A151,R3,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,262
+A152,R1,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,403
+A152,R2,v2,incorrect,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,579
+A152,R3,v2,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,637
+A153,R1,v2,correct,,Matches the reference; explanation complete.,174
+A153,R2,v2,correct,,Matches the reference; explanation complete.,324
+A153,R3,v2,correct,,Matches the reference; explanation complete.,421
+A154,R1,v2,correct,,Matches the reference; explanation complete.,376
+A154,R2,v2,correct,,Matches the reference; explanation complete.,242
+A154,R3,v2,correct,,Matches the reference; explanation complete.,308
+A155,R1,v2,correct,,Matches the reference; explanation complete.,158
+A155,R2,v2,correct,,Matches the reference; explanation complete.,312
+A155,R3,v2,correct,,Matches the reference; explanation complete.,281
+A156,R1,v2,correct,,Matches the reference; explanation complete.,210
+A156,R2,v2,correct,,Matches the reference; explanation complete.,271
+A156,R3,v2,correct,,Matches the reference; explanation complete.,552
+A157,R1,v2,correct,,Matches the reference; explanation complete.,183
+A157,R2,v2,correct,,Matches the reference; explanation complete.,335
+A157,R3,v2,correct,,Matches the reference; explanation complete.,370
+A158,R1,v2,correct,,Matches the reference; explanation complete.,313
+A158,R2,v2,correct,,Matches the reference; explanation complete.,409
+A158,R3,v2,correct,,Matches the reference; explanation complete.,271
+A159,R1,v2,correct,,Matches the reference; explanation complete.,246
+A159,R2,v2,correct,,Matches the reference; explanation complete.,214
+A159,R3,v2,correct,,Matches the reference; explanation complete.,300
+A160,R1,v2,correct,,Matches the reference; explanation complete.,330
+A160,R2,v2,correct,,Matches the reference; explanation complete.,363
+A160,R3,v2,correct,,Matches the reference; explanation complete.,309
+A161,R1,v2,correct,,Matches the reference; explanation complete.,340
+A161,R2,v2,correct,,Matches the reference; explanation complete.,280
+A161,R3,v2,correct,,Matches the reference; explanation complete.,182
+A162,R1,v2,correct,,Matches the reference; explanation complete.,305
+A162,R2,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,381
+A162,R3,v2,correct,,Matches the reference; explanation complete.,218
+A163,R1,v2,correct,,Matches the reference; explanation complete.,331
+A163,R2,v2,correct,,Matches the reference; explanation complete.,591
+A163,R3,v2,correct,,Matches the reference; explanation complete.,298
+A164,R1,v2,correct,,Matches the reference; explanation complete.,304
+A164,R2,v2,correct,,Matches the reference; explanation complete.,178
+A164,R3,v2,correct,,Matches the reference; explanation complete.,210
+A165,R1,v2,correct,,Matches the reference; explanation complete.,232
+A165,R2,v2,correct,,Matches the reference; explanation complete.,375
+A165,R3,v2,correct,,Matches the reference; explanation complete.,223
+A166,R1,v2,correct,,Matches the reference; explanation complete.,160
+A166,R2,v2,correct,,Matches the reference; explanation complete.,352
+A166,R3,v2,correct,,Matches the reference; explanation complete.,238
+A167,R1,v2,correct,,Matches the reference; explanation complete.,180
+A167,R2,v2,correct,,Matches the reference; explanation complete.,392
+A167,R3,v2,correct,,Matches the reference; explanation complete.,269
+A168,R1,v2,correct,,Matches the reference; explanation complete.,364
+A168,R2,v2,correct,,Matches the reference; explanation complete.,178
+A168,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,142
+A169,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",270
+A169,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",319
+A169,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",470
+A170,R1,v2,correct,,Matches the reference; explanation complete.,411
+A170,R2,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",1147
+A170,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",515
+A171,R1,v2,correct,,Matches the reference; explanation complete.,404
+A171,R2,v2,correct,,Matches the reference; explanation complete.,500
+A171,R3,v2,correct,,Matches the reference; explanation complete.,318
+A172,R1,v2,correct,,Matches the reference; explanation complete.,515
+A172,R2,v2,correct,,Matches the reference; explanation complete.,444
+A172,R3,v2,correct,,Matches the reference; explanation complete.,840
+A173,R1,v2,correct,,Matches the reference; explanation complete.,311
+A173,R2,v2,correct,,Matches the reference; explanation complete.,269
+A173,R3,v2,correct,,Matches the reference; explanation complete.,273
+A174,R1,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",355
+A174,R2,v2,incorrect,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",845
+A174,R3,v2,partially_correct,PCT_VS_POINTS,"Change between two rates must be in percentage points, not %.",319
+A175,R1,v2,correct,,Matches the reference; explanation complete.,220
+A175,R2,v2,correct,,Matches the reference; explanation complete.,401
+A175,R3,v2,correct,,Matches the reference; explanation complete.,187
+A176,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",363
+A176,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",158
+A176,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",178
+A177,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",371
+A177,R2,v2,partially_correct,STALE_SOURCE,Figure comes from a stopped series or frozen dataset; cite the current series and its date.,145
+A177,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",308
+A178,R1,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",603
+A178,R2,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",625
+A178,R3,v2,partially_correct,PROVISIONAL_AS_FINAL,"Right number, but the value is flagged provisional/estimated and is presented as final.",442
+A179,R1,v2,correct,,Matches the reference; explanation complete.,200
+A179,R2,v2,correct,,Matches the reference; explanation complete.,277
+A179,R3,v2,correct,,Matches the reference; explanation complete.,507
+A180,R1,v2,correct,,Matches the reference; explanation complete.,435
+A180,R2,v2,correct,,Matches the reference; explanation complete.,282
+A180,R3,v2,correct,,Matches the reference; explanation complete.,281
+A181,R1,v2,correct,,Matches the reference; explanation complete.,382
+A181,R2,v2,correct,,Matches the reference; explanation complete.,324
+A181,R3,v2,correct,,Matches the reference; explanation complete.,287
+A182,R1,v2,correct,,Matches the reference; explanation complete.,370
+A182,R2,v2,correct,,Matches the reference; explanation complete.,366
+A182,R3,v2,correct,,Matches the reference; explanation complete.,246
+A183,R1,v2,correct,,Matches the reference; explanation complete.,347
+A183,R2,v2,correct,,Matches the reference; explanation complete.,358
+A183,R3,v2,correct,,Matches the reference; explanation complete.,307
+A184,R1,v2,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,310
+A184,R2,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,222
+A184,R3,v2,partially_correct,NUTS_LABEL,Confuses a NUTS 2 statistical region with a current administrative region.,193
+A185,R1,v2,correct,,Matches the reference; explanation complete.,294
+A185,R2,v2,correct,,Matches the reference; explanation complete.,287
+A185,R3,v2,correct,,Matches the reference; explanation complete.,346
+A186,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,595
+A186,R2,v2,incorrect,FR_BILLION,'billion' in French means 10^12; 10^9 is 'milliard'.,322
+A186,R3,v2,incorrect,FR_BILLION,'billion' in French means 10^12; 10^9 is 'milliard'.,406
+A187,R1,v2,correct,,Matches the reference; explanation complete.,279
+A187,R2,v2,correct,,Matches the reference; explanation complete.,537
+A187,R3,v2,correct,,Matches the reference; explanation complete.,234
+A188,R1,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",202
+A188,R2,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",423
+A188,R3,v2,incorrect,FR_DECIMAL,"French decimal comma misread (in French, 11,035 means 11.035, not 11,035).",353
+A189,R1,v2,correct,,Matches the reference; explanation complete.,229
+A189,R2,v2,correct,,Matches the reference; explanation complete.,318
+A189,R3,v2,correct,,Matches the reference; explanation complete.,288
+A190,R1,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",551
+A190,R2,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",577
+A190,R3,v2,incorrect,FR_TERM,"French term confused (trimestre = quarter, semestre = half-year; avant-dernier = second-to-last).",486
+A191,R1,v2,correct,,Matches the reference; explanation complete.,234
+A191,R2,v2,correct,,Matches the reference; explanation complete.,122
+A191,R3,v2,correct,,Matches the reference; explanation complete.,254
+A192,R1,v2,correct,,Matches the reference; explanation complete.,149
+A192,R2,v2,correct,,Matches the reference; explanation complete.,489
+A192,R3,v2,correct,,Matches the reference; explanation complete.,233
+A193,R1,v2,correct,,Matches the reference; explanation complete.,485
+A193,R2,v2,correct,,Matches the reference; explanation complete.,256
+A193,R3,v2,correct,,Matches the reference; explanation complete.,197
+A194,R1,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,626
+A194,R2,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,797
+A194,R3,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,179
+A195,R1,v2,correct,,Matches the reference; explanation complete.,334
+A195,R2,v2,correct,,Matches the reference; explanation complete.,146
+A195,R3,v2,correct,,Matches the reference; explanation complete.,244
+A196,R1,v2,incorrect,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,398
+A196,R2,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,298
+A196,R3,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,202
+A197,R1,v2,correct,,Matches the reference; explanation complete.,249
+A197,R2,v2,correct,,Matches the reference; explanation complete.,322
+A197,R3,v2,correct,,Matches the reference; explanation complete.,186
+A198,R1,v2,correct,,Matches the reference; explanation complete.,217
+A198,R2,v2,correct,,Matches the reference; explanation complete.,191
+A198,R3,v2,correct,,Matches the reference; explanation complete.,344
+A199,R1,v2,correct,,Matches the reference; explanation complete.,483
+A199,R2,v2,correct,,Matches the reference; explanation complete.,172
+A199,R3,v2,correct,,Matches the reference; explanation complete.,297
+A200,R1,v2,correct,,Matches the reference; explanation complete.,361
+A200,R2,v2,correct,,Matches the reference; explanation complete.,228
+A200,R3,v2,correct,,Matches the reference; explanation complete.,151
+A201,R1,v2,correct,,Matches the reference; explanation complete.,380
+A201,R2,v2,correct,,Matches the reference; explanation complete.,149
+A201,R3,v2,correct,,Matches the reference; explanation complete.,426
+A202,R1,v2,correct,,Matches the reference; explanation complete.,190
+A202,R2,v2,correct,,Matches the reference; explanation complete.,142
+A202,R3,v2,correct,,Matches the reference; explanation complete.,207
+A203,R1,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,393
+A203,R2,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,306
+A203,R3,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,219
+A204,R1,v2,correct,,Matches the reference; explanation complete.,173
+A204,R2,v2,correct,,Matches the reference; explanation complete.,239
+A204,R3,v2,correct,,Matches the reference; explanation complete.,205
+A205,R1,v2,correct,,Matches the reference; explanation complete.,224
+A205,R2,v2,correct,,Matches the reference; explanation complete.,239
+A205,R3,v2,correct,,Matches the reference; explanation complete.,130
+A206,R1,v2,correct,,Matches the reference; explanation complete.,282
+A206,R2,v2,correct,,Matches the reference; explanation complete.,290
+A206,R3,v2,correct,,Matches the reference; explanation complete.,148
+A207,R1,v2,correct,,Matches the reference; explanation complete.,165
+A207,R2,v2,correct,,Matches the reference; explanation complete.,187
+A207,R3,v2,correct,,Matches the reference; explanation complete.,191
+A208,R1,v2,correct,,Matches the reference; explanation complete.,250
+A208,R2,v2,correct,,Matches the reference; explanation complete.,165
+A208,R3,v2,correct,,Matches the reference; explanation complete.,156
+A209,R1,v2,correct,,Matches the reference; explanation complete.,597
+A209,R2,v2,correct,,Matches the reference; explanation complete.,306
+A209,R3,v2,correct,,Matches the reference; explanation complete.,121
+A210,R1,v2,correct,,Matches the reference; explanation complete.,373
+A210,R2,v2,correct,,Matches the reference; explanation complete.,186
+A210,R3,v2,correct,,Matches the reference; explanation complete.,164
+A211,R1,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,174
+A211,R2,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,286
+A211,R3,v2,correct,,Matches the reference; explanation complete.,293
+A212,R1,v2,correct,,Matches the reference; explanation complete.,216
+A212,R2,v2,correct,,Matches the reference; explanation complete.,301
+A212,R3,v2,correct,,Matches the reference; explanation complete.,245
+A213,R1,v2,correct,,Matches the reference; explanation complete.,176
+A213,R2,v2,correct,,Matches the reference; explanation complete.,278
+A213,R3,v2,correct,,Matches the reference; explanation complete.,263
+A214,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,462
+A214,R2,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,541
+A214,R3,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,368
+A215,R1,v2,correct,,Matches the reference; explanation complete.,184
+A215,R2,v2,correct,,Matches the reference; explanation complete.,644
+A215,R3,v2,correct,,Matches the reference; explanation complete.,244
+A216,R1,v2,correct,,Matches the reference; explanation complete.,201
+A216,R2,v2,correct,,Matches the reference; explanation complete.,188
+A216,R3,v2,correct,,Matches the reference; explanation complete.,137
+A217,R1,v2,correct,,Matches the reference; explanation complete.,131
+A217,R2,v2,correct,,Matches the reference; explanation complete.,634
+A217,R3,v2,correct,,Matches the reference; explanation complete.,133
+A218,R1,v2,correct,,Matches the reference; explanation complete.,185
+A218,R2,v2,correct,,Matches the reference; explanation complete.,216
+A218,R3,v2,correct,,Matches the reference; explanation complete.,224
+A219,R1,v2,correct,,Matches the reference; explanation complete.,220
+A219,R2,v2,correct,,Matches the reference; explanation complete.,222
+A219,R3,v2,correct,,Matches the reference; explanation complete.,273
+A220,R1,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,310
+A220,R2,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,233
+A220,R3,v2,incorrect,ARITHMETIC,Calculation or reading error; recompute from the source values.,278
+A221,R1,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,204
+A221,R2,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,288
+A221,R3,v2,partially_correct,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,173
+A222,R1,v2,correct,,Matches the reference; explanation complete.,325
+A222,R2,v2,correct,,Matches the reference; explanation complete.,380
+A222,R3,v2,correct,,Matches the reference; explanation complete.,239
+A223,R1,v2,correct,,Matches the reference; explanation complete.,451
+A223,R2,v2,correct,,Matches the reference; explanation complete.,212
+A223,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,444
+A224,R1,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,282
+A224,R2,v2,correct,,Matches the reference; explanation complete.,292
+A224,R3,v2,correct,,Matches the reference; explanation complete.,199
+A225,R1,v2,correct,,Matches the reference; explanation complete.,296
+A225,R2,v2,correct,,Matches the reference; explanation complete.,164
+A225,R3,v2,correct,,Matches the reference; explanation complete.,234
+A226,R1,v2,correct,,Matches the reference; explanation complete.,183
+A226,R2,v2,correct,,Matches the reference; explanation complete.,264
+A226,R3,v2,correct,,Matches the reference; explanation complete.,95
+A227,R1,v2,correct,,Matches the reference; explanation complete.,252
+A227,R2,v2,correct,,Matches the reference; explanation complete.,274
+A227,R3,v2,correct,,Matches the reference; explanation complete.,214
+A228,R1,v2,correct,,Matches the reference; explanation complete.,218
+A228,R2,v2,correct,,Matches the reference; explanation complete.,205
+A228,R3,v2,correct,,Matches the reference; explanation complete.,233
+A229,R1,v2,correct,,Matches the reference; explanation complete.,411
+A229,R2,v2,correct,,Matches the reference; explanation complete.,333
+A229,R3,v2,correct,,Matches the reference; explanation complete.,233
+A230,R1,v2,correct,,Matches the reference; explanation complete.,212
+A230,R2,v2,correct,,Matches the reference; explanation complete.,321
+A230,R3,v2,correct,,Matches the reference; explanation complete.,258
+A231,R1,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,504
+A231,R2,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,393
+A231,R3,v2,partially_correct,MISSED_BLOCK,Incomplete: a block or item from the source is missing.,227
+A232,R1,v2,correct,,Matches the reference; explanation complete.,224
+A232,R2,v2,correct,,Matches the reference; explanation complete.,231
+A232,R3,v2,partially_correct,ARITHMETIC,Calculation or reading error; recompute from the source values.,455
+A233,R1,v2,correct,,Matches the reference; explanation complete.,105
+A233,R2,v2,correct,,Matches the reference; explanation complete.,621
+A233,R3,v2,correct,,Matches the reference; explanation complete.,179
+A234,R1,v2,correct,,Matches the reference; explanation complete.,184
+A234,R2,v2,correct,,Matches the reference; explanation complete.,211
+A234,R3,v2,correct,,Matches the reference; explanation complete.,124
+A235,R1,v2,correct,,Matches the reference; explanation complete.,239
+A235,R2,v2,correct,,Matches the reference; explanation complete.,273
+A235,R3,v2,correct,,Matches the reference; explanation complete.,306
+A236,R1,v2,correct,,Matches the reference; explanation complete.,423
+A236,R2,v2,correct,,Matches the reference; explanation complete.,162
+A236,R3,v2,correct,,Matches the reference; explanation complete.,426
+A237,R1,v2,correct,,Matches the reference; explanation complete.,290
+A237,R2,v2,correct,,Matches the reference; explanation complete.,166
+A237,R3,v2,correct,,Matches the reference; explanation complete.,156
+A238,R1,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,207
+A238,R2,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,151
+A238,R3,v2,incorrect,HALLUCINATED_DETAIL,Adds a fact or location that is not in the source.,389
+A239,R1,v2,correct,,Matches the reference; explanation complete.,367
+A239,R2,v2,correct,,Matches the reference; explanation complete.,243
+A239,R3,v2,correct,,Matches the reference; explanation complete.,206
+A240,R1,v2,correct,,Matches the reference; explanation complete.,185
+A240,R2,v2,correct,,Matches the reference; explanation complete.,145
+A240,R3,v2,correct,,Matches the reference; explanation complete.,164

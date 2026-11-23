@@ -1,0 +1,5 @@
+task_type,answers,pass_pct,partial_pct,incorrect_pct
+series_analysis,80,48.8,25.0,26.3
+logic_puzzle,60,50.0,1.7,48.3
+claim_check,50,64.0,14.0,22.0
+summarise_chunk,50,82.0,8.0,10.0

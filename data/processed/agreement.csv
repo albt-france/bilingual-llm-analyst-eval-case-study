@@ -1,0 +1,13 @@
+scope,guidelines,pair,n,observed_agreement,chance_agreement,cohen_kappa
+all answers,v1,R1-R2,240,0.8,0.42,0.655
+all answers,v2,R1-R2,240,0.938,0.436,0.889
+all answers,v1,R1-R3,240,0.738,0.463,0.512
+all answers,v2,R1-R3,240,0.908,0.429,0.839
+all answers,v1,R2-R3,240,0.779,0.455,0.595
+all answers,v2,R2-R3,240,0.929,0.431,0.876
+grey-zone answers,v1,R1-R2,31,0.452,0.369,0.13
+grey-zone answers,v2,R1-R2,31,0.871,0.875,-0.033
+grey-zone answers,v1,R1-R3,31,0.097,0.16,-0.076
+grey-zone answers,v2,R1-R3,31,0.839,0.848,-0.062
+grey-zone answers,v1,R2-R3,31,0.484,0.4,0.14
+grey-zone answers,v2,R2-R3,31,0.903,0.906,-0.033
