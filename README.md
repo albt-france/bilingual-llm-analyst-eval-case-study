@@ -1,5 +1,7 @@
 # Where language models slip on analyst questions: a bilingual gold set and grading rubric
 
+### 📄 [Read the report (PDF, 6 pages)](https://albt-france.github.io/bilingual-llm-analyst-eval-case-study/report/LLM_analyst_eval.pdf) · 🖥️ [Open the live dashboard](https://albt-france.github.io/bilingual-llm-analyst-eval-case-study/dashboard/)
+
 An independent case study for an AI-training analyst role: writing analytical questions and scenarios, computing
 the right answer, explaining it step by step, checking claims against primary sources, chunking long texts, and
 grading model answers, **in English and in French**.
@@ -12,6 +14,7 @@ grading model answers, **in English and in French**.
 - **Guides:** [writing a gold answer](docs/writing_a_gold_answer.md) · [rubric](docs/rubric.md) ·
   [error taxonomy, with French-specific pitfalls](docs/error_taxonomy.md) · [claim-checking method](docs/claim_checking_method.md) ·
   [chunking guide](docs/chunking_guide.md) · [data issues log](docs/data_issues_log.md)
+- **Dashboard source (self-contained HTML, 5 tabs incl. a searchable gold-set browser):** [dashboard/index.html](dashboard/index.html), also works offline
 - **Notebook (executed):** [notebooks/llm_analyst_eval.ipynb](notebooks/llm_analyst_eval.ipynb)
 
 **PUBLIC DATA** (Eurostat, INSEE, Wikipedia) for the tasks and reference answers. **SIMULATED** for the model answers
@@ -64,6 +67,7 @@ python src/run_sql.py
 python src/build_workbook.py
 jupyter nbconvert --to notebook --execute --inplace notebooks/llm_analyst_eval.ipynb
 python src/build_pdf.py
+python src/build_dashboard.py
 ```
 
 Run from the repository root (Windows; the PDF step uses Microsoft Edge headless). `fetch_public.py` calls official
